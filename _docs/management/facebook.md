@@ -1,6 +1,6 @@
 ---
 title: Facebook
-category: Contact Syncing
+category: Management
 order: 1
 ---
 
