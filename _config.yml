@@ -30,7 +30,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
-
+  - jekyll-paginate
+  
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -77,3 +78,6 @@ defaults:
 types:
   - minor
   - major
+
+# gems: [jekyll-paginate]
+
