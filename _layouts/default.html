@@ -46,12 +46,30 @@
 					</li>
 				</ul>
 
+
 				<ul>
 					<li class="nav-item top-level {% if page.url == '/changelog/' %}current{% endif %}">
 						{% assign changelog = site.html_pages | where: 'url', '/changelog/' | first %}
 						<a href="{{ site.baseurl }}/changelog/">{{ changelog.title }}</a>
 					</li>
 				</ul>
+				
+				<!-- The follow group is added by Janaka to mimic category of blog-->
+				<ul>
+					{% assign grouped = site.posts | group_by: 'type' %}
+					{% for group in grouped %}
+						<li class="nav-item top-level {% if group.name == page.type %}current{% endif %}">
+							{% assign items = group.items | sort: 'order' %}
+							<a href="{{ site.baseurl }}{{ items.first.url }}">{{ group.name }}</a>
+							<ul>
+								{% for item in items %}
+									<li class="nav-item {% if item.url == page.url %}current{% endif %}"><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
+								{% endfor %}
+							</ul>
+						</li>
+					{% endfor %}
+				</ul>
+				
 
 				<ul>
 					{% assign grouped = site.docs | group_by: 'category' %}
