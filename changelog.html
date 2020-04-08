@@ -7,15 +7,15 @@ title: Blogs
 <p class="editor-link"><a href="cloudcannon:collections/_posts" class="btn"><strong>&#9998;</strong> Update Change Log</a></p>
 
 <div class="changelog">
-	{% for change in site.posts %}
-		{% if change.type == 'minor' %}
+	{% for post in site.posts %}
+		{% if post.type == 'minor' %}
 			<div class="changelog-item">
-				<h3>{{ change.title }}</h3>
-				<p><span class="date">{{ change.date | date: "%B %d, %Y" }}</span> <span class="badge {{ change.type }}">{{ change.type }}</span></p>
+				<h3>{{ post.title }}</h3>
+				<p><span class="date">{{ post.date | date: "%B %d, %Y" }}</span> <span class="badge {{ post.type }}">{{ post.type }}</span></p>
 
-				{{ change.content }}
+				{{ post.content }}
 
-				<p class="editor-link"><a href="cloudcannon:collections/{{ change.path }}" class="btn"><strong>&#9998;</strong> Update Entry</a></p>
+				<p class="editor-link"><a href="cloudcannon:collections/{{ post.path }}" class="btn"><strong>&#9998;</strong> Update Entry</a></p>
 			</div>
 		{% endif %}			
 	{% endfor %}
