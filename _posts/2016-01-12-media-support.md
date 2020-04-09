@@ -4,7 +4,7 @@ type: major
 tags: 
 ---
 
-ChatApp introduces media support! Send images, videos and documents to your contacts.
+<img src="{{site.baseurl}}/assets/img/janakaface5.jpg" ALIGN="right" HSPACE="15" VSPACE="1"> ChatApp introduces media support! Send images, videos and documents to your contacts.
 
 **Features:**
 
