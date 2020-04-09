@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\_docs",
+    "\\_docs\\tech",
+    "\\_docs_old",
+    "\\_layouts"
   ],
-  "SelectedNode": "\\index.md",
+  "SelectedNode": "\\_layouts\\default.html",
   "PreviewInSolutionExplorer": false
 }
