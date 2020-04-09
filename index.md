@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: About Me
 ---
 
 <img src="{{site.baseurl}}/assets/img/janakaface5.jpg" ALIGN="right" HSPACE="15" VSPACE="1"> This site is built on the purpose of sharing my knowledge and public-domain works, in the domain of management, technology, and spirituality.
