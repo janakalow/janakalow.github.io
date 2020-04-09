@@ -1,38 +1,12 @@
 ---
-title: Welcome 4
+title: Welcome
 ---
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
+This site is built to share my knowledge and public-domain works, in the domain of manangement, technology and spirituality.
 
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
+Here is a brief information about me:
+> I am a freelance consultant and educator. In the consulting sector, I provide consultation services to SMEs and large companies in the field of management and technology. In the education field, I teach master and doctoral level business management courses, and supervise research projects. Prior to my current career, I held a position of dean of postgraduate studies institute and associate professor in a Malaysian univeristy. I received my Ph.D. from the University of Science Malaysia (USM), MBA from the University of Bath, UK, and Bachelor of Engineering from the University of Technology Malaysia (UTM).  I have served Intel for 10 years as an electronics engineer and manufacturing system and data manager. I then became a partner in a management consulting firm helping manufacturing companies to improve their operations and business. Academically, I have taught various management-related subjects, including organization structure and design, social marketing, social media marketing, introduction to ERP systems, entrepreneurship, business research methods, operations management, project management, customer relationship management, and marketing management. My research interests include the role of language in research methodology, consumer marketing, and multinational control mechanisms. I still supervises master and doctoral level business research students, and also serves as an examiner in master and doctoral research viva sessions.
 
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
+If you have any questions, you may contact me at: janaka.low (at) gmail.com
 
-### Getting Started
 
-Getting a message sent is quick and easy with ChatApp:
-
-1. Sign up for an account
-2. Add your friends from their email addresses
-3. Type a message or send a photo
-
-> Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
-
-### Features
-
-Explore more of ChatApp by reading about our features:
-
-#### Media
-
-Send images, videos and other media to people. Sources include your computer, phone and Facebook.
-
-#### Contact Syncing
-
-Sync your contact list with your phone and/or Facebook contacts. Never lose your contacts between devices again!
-
-#### Devices
-
-ChatApp is available everywhere. Find out how to set it up on your all your devices.
