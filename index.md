@@ -6,6 +6,8 @@ description: "Janaka docs description"
 permalink: /
 ---
 
+Last updated: 13/2/2025 7am
+
 # Focus on writing good documentation
 {: .fs-9 }
 
