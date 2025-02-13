@@ -1,8 +1,8 @@
----
-title: Tables
-parent: UI Components
-nav_order: 4
----
+# ---
+# title: Tables
+# parent: UI Components
+# nav_order: 4
+# ---
 
 # Tables
 

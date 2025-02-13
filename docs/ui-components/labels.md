@@ -1,8 +1,8 @@
----
-title: Labels
-parent: UI Components
-nav_order: 3
----
+# ---
+# title: Labels
+# parent: UI Components
+# nav_order: 3
+# ---
 
 # Labels
 

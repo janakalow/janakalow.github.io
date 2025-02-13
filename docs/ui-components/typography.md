@@ -1,8 +1,8 @@
----
-title: Typography
-parent: UI Components
-nav_order: 1
----
+# ---
+# title: Typography
+# parent: UI Components
+# nav_order: 1
+# ---
 
 # Typography
 {: .no_toc }
