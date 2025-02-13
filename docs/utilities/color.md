@@ -1,7 +1,7 @@
----
-title: Color
-parent: Utilities
----
+# ---
+# title: Color
+# parent: Utilities
+# ---
 
 # Color Utilities
 {: .no_toc }

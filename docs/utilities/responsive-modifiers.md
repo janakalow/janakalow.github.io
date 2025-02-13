@@ -1,7 +1,7 @@
----
-title: Responsive Modifiers
-parent: Utilities
----
+# ---
+# title: Responsive Modifiers
+# parent: Utilities
+# ---
 
 # Responsive modifiers
 
