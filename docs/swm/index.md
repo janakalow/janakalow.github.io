@@ -1,5 +1,5 @@
 ---
-title: Study withe Me
+title: Study with Me
 nav_order: 7
 ---
 
