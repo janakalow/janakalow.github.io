@@ -1,7 +1,7 @@
----
-title: Configuration
-nav_order: 2
----
+# ---
+# title: Configuration
+# nav_order: 2
+# ---
 
 # Configuration
 {: .no_toc }
