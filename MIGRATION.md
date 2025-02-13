@@ -385,9 +385,6 @@ For changes since v0.3.3, the log usually references the merged PR that made the
 
 #### Configuration
 
-- Mermaid support: first-class support for [Mermaid](https://mermaid.js.org/) - a JavaScript-based diagram and charting tool supported by GitHub - has been added to the theme. **This feature is opt-in.** See the new doc subsections in [Configuration]({% link d/configuration.md %}#mermaid-diagrams) and [Code]({% link d/ui-components/code/index.md %}#mermaid-diagram-code-blocks) for more.
-- Multiple Google Analytics tags are now supported. PR: [#1029]
-
 #### Customization
 
 - all user-facing text is now customizable; previously, several elements (ex search placeholder) were hardwired into the theme. Now, users can blend custom includes and layouts to internationalize their sites.
@@ -395,7 +392,6 @@ For changes since v0.3.3, the log usually references the merged PR that made the
 
 #### Custom Includes
 
-We've added several custom `_includes` to provide users with more customization options for different site elements. We've also added a section to [Configuration]({% link d/customization.md %}#override-includes) to outline these.
 
 All of these are opt-in by default; however, **these may be breaking if you have existing `_includes` with the same name**.
 
@@ -413,7 +409,6 @@ In a future (version 1) release, we may rename the custom include files.
 
 We've broken up the default layout (`_layouts/default.html`) into multiple reusable components. This should have no impact on most users; however, it should make it easier to implement custom layouts.
 
-For more, see [Custom layouts and includes]({% link d/customization.md %}#custom-layouts-and-includes). PR: [#1058].
 
 #### Navigation
 
@@ -433,7 +428,6 @@ In addition to customizing the search placeholder, we've also added the ability 
 - Code copying: code blocks now allow users to easily copy their contents. PR: [#945]
 - Blockquote: shows vertical bar on left. PR: [#965]
 - Links wrap. PR: [#905]
-- Callouts: a new component similar to alerts or banners. See [UI Components - Callouts]({% link d/ui-components/callouts.md %}). PR: [#466]
 
 ----
 
