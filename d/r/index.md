@@ -19,7 +19,7 @@ nav_order: 3
 
 Identify possible gaps in the research. For example:
 1. New development in the industry/education the renders the existing theories inadequate/irrelevant.
-1. Problem with existing theories, when the theory
+2. Problem with existing theories, when the theory
     - is incomplete,
     - is not generalizable,
     - has limited empirical support,
