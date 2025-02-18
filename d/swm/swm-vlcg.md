@@ -1,5 +1,5 @@
 ---
-title: Study with Me for ViTrox College Students
+title: For ViTrox College Students
 parent: Study with Me
 nav_order: 1
 ---
@@ -31,6 +31,10 @@ nav_order: 1
 
 # SESSION TIME SLOTS
 Steps to start:
+- Add "Study with Me" Google Calendar. The link to the calendar is
+```
+https://calendar.google.com/calendar/u/0?cid=Y185MjFhNmIzZjg3YjUwYzA2ODU4MWVjNWEwMWI0MTA4MzFkNjRjMWQwMjM4YjRlMDBkZGUzYWQ1ZmM4NDRmOWYwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
+```
 - Each session will have focused periods that last for 25 minutes. Eg.,
   - 7:00 pm - 7:25 pm	
   - 7:30 pm - 7:55 pm
