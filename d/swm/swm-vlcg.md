@@ -40,9 +40,9 @@ https://calendar.google.com/calendar/u/0?cid=Y185MjFhNmIzZjg3YjUwYzA2ODU4MWVjNWE
   - 7:30 pm - 7:55 pm
   - 8:00 pm - 8:25 pm
   - 8:30 pm - 8:55 pm
-- Upon loging in to Google Meet, open the chat, and report in by sending a message: "Your-full-name start studying."
+- Upon loging in to Google Meet, open the chat, and report in by sending a message: "Your-full-name starts studying name-of-subject."
 - A text/voice message will be posted in the chat area to mark the beginning and the end of of the focused session.
 - You are encouraged to walk about, stretch, look at distant objects (to rest your eyes), etc. during the 5-minutes break. 
 - You are allowed to join the focused periods at any time. However, you are not allowed to leave the session in between the focused periods, unless there is an emergency.
-- Before leavoing Google Meet, send a message in the chat: "Your-full-name end studying."
+- Before leavoing Google Meet, send a message in the chat: "Your-full-name ends studying."
 
